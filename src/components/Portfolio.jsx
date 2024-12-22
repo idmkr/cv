@@ -1,14 +1,14 @@
 import React from 'react';
 
 const projects = [
-  { name: 'Notion Redux', desc: 'Управление задачами с использованием Redux', img: 'notion-redux.png', link: 'https://github.com/idmkr/redux' },
-  { name: 'Notion', desc: 'Простой инструмент для заметок и задач', img: 'notion.png', link: 'https://github.com/idmkr/notion' },
-  { name: 'Api&Spa', desc: 'SPA с использованием API для данных', img: 'api-spa.png', link: 'https://github.com/idmkr/apispa' },
-  { name: 'lamoda', desc: 'Копия интернет-магазина', img: 'lamoda.jpg', link: 'https://github.com/idmkr/lamoda' },
-  { name: 'todo list', desc: 'Список дел с функциями управления', img: 'todo.jpg', link: 'https://github.com/idmkr/todo2' },
-  { name: 'bulls&cows', desc: 'Игра на чистом JS', img: 'bulls-cows.jpg', link: 'https://github.com/idmkr/bulls_cows' },
-  { name: 'Галерея', desc: 'Коллекция картин с описаниями', img: 'gallery.jpg', link: 'https://github.com/idmkr/gallery' },
-  { name: 'Лендинг', desc: 'Рекламный сайт для продукта', img: 'landing.jpg', link: 'https://github.com/idmkr/lending' },
+  { name: 'Notion Redux', desc: 'Управление задачами с использованием Redux', img: '/notion-redux.png', link: 'https://github.com/idmkr/redux' },
+  { name: 'Notion', desc: 'Простой инструмент для заметок и задач', img: '/notion.png', link: 'https://github.com/idmkr/notion' },
+  { name: 'Api&Spa', desc: 'SPA с использованием API для данных', img: '/api-spa.png', link: 'https://github.com/idmkr/apispa' },
+  { name: 'lamoda', desc: 'Копия интернет-магазина', img: '/lamoda.jpg', link: 'https://github.com/idmkr/lamoda' },
+  { name: 'todo list', desc: 'Список дел с функциями управления', img: '/todo.jpg', link: 'https://github.com/idmkr/todo2' },
+  { name: 'bulls&cows', desc: 'Игра на чистом JS', img: '/bulls-cows.jpg', link: 'https://github.com/idmkr/bulls_cows' },
+  { name: 'Галерея', desc: 'Коллекция картин с описаниями', img: '/gallery.jpg', link: 'https://github.com/idmkr/gallery' },
+  { name: 'Лендинг', desc: 'Рекламный сайт для продукта', img: '/landing.jpg', link: 'https://github.com/idmkr/lending' },
 ];
 
 function Portfolio() {
