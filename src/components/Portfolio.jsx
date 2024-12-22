@@ -4,7 +4,7 @@ const projects = [
   { name: 'Notion Redux', desc: 'Управление задачами с использованием Redux', img: 'img/notion-redux.png', link: 'https://github.com/idmkr/redux' },
   { name: 'Notion', desc: 'Простой инструмент для заметок и задач', img: 'img/notion.png', link: 'https://github.com/idmkr/notion' },
   { name: 'Api&Spa', desc: 'SPA с использованием API для данных', img: 'img/api-spa.png', link: 'https://github.com/idmkr/apispa' },
-  { name: 'lamoda', desc: 'Копия интернет-магазина', img: 'img/lamoda.jpg', link: 'https://github.com/idmkr/lamoda' },
+  { name: 'lamoda', desc: 'Копия интернет-магазина lamoda c ювилиркой', img: 'img/lamoda.jpg', link: 'https://github.com/idmkr/lamoda' },
   { name: 'todo list', desc: 'Список дел с функциями управления', img: 'img/todo.jpg', link: 'https://github.com/idmkr/todo2' },
   { name: 'bulls&cows', desc: 'Игра на чистом JS', img: 'img/bulls-cows.jpg', link: 'https://github.com/idmkr/bulls_cows' },
   { name: 'Галерея', desc: 'Коллекция картин с описаниями', img: 'img/gallery.jpg', link: 'https://github.com/idmkr/gallery' },
