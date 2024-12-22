@@ -8,4 +8,5 @@ export default defineConfig({
     host: "0.0.0.0", // Позволяет подключаться к серверу с других устройств в сети
     port: 3000, // Убедись, что порт 3000 свободен
   },
+  base: "https://idmkr.github.io/cv"
 });
